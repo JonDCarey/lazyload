@@ -2,7 +2,7 @@
 
 Lazy Load delays loading of images in long web pages. Images outside of viewport will not be loaded before user scrolls to them. This is opposite of image preloading.
 
-This is a modern vanilla JavaScript version of the original [Lazy Load](https://github.com/tuupola/jquery_lazyload) plugin. It uses [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) to observe when the image enters the browsers viewport. Original code was inspired by [YUI ImageLoader](https://yuilibrary.com/yui/docs/imageloader/) utility by Matt Mlinac. New version loans heavily from a [blog post](https://deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163) by Dean Hume.
+This is a modern vanilla JavaScript version of the original [Lazy Load](https://github.com/tuupola/jquery_lazyload) plugin. It uses [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) to observe when the image enters the browsers viewport. Original code was inspired by [YUI ImageLoader](https://yuilibrary.com/yui/docs/imageloader/) utility by Matt Mlinac. New version loans heavily from a [blog post](https://deanhume.com/lazy-loading-images-using-intersection-observer/) by Dean Hume.
 
 ## Basic Usage
 
